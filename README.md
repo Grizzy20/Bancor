@@ -1,5 +1,3 @@
-# Bancor
 
-git remote add origin git@github.com:Grizzy20/Bancor.git
-git branch -M main
-git push -u origin main
+blink:Bancor:ropsten:0xafdcf0708ab37df3eef706ea0c1b985a8fa10b11607fe1c0558022b51f450635
+blink:Bancor:mainnet:000000000000000000010382095b5308881ddf0902b59d0328a1401548383c5a:d7a008c9f9eab701132d394410f4e9d578790fb41848013fc5ba35951acdca24
